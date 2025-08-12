@@ -63,7 +63,7 @@ Capture live network packets and identify basic protocols and traffic types.
          - ***Application layer protocol***.
          -  Translates human-readable domain names.
            
-              for e.g.
+              for eg ;
             
                       `example.com` into IP addresses like `93.184.216.34`.
             
